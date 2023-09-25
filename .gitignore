@@ -1,0 +1,13 @@
+*.pyc
+*.sqlite3
+.env
+.envrc
+.idea/
+.vscode/
+*~
+docker-compose.yml
+redis/
+db/
+media/
+data/
+venv/
